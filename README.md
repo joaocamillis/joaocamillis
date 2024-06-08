@@ -1,5 +1,5 @@
 ### Olá, eu sou o João
-<img src="https://phoneky.co.uk/thumbs/screensavers/down/nature/birdsunset_i1s18vsi.gif" alt="Imagem de passaros voando ao por do sol" width="100%" height="450">
+<img src="https://phoneky.co.uk/thumbs/screensavers/down/nature/birdsunset_i1s18vsi.gif" alt="Imagem de passaros voando ao por do sol" width="500" height="450">
 
 [![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joao.camillis/)
 

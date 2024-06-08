@@ -13,4 +13,4 @@
 <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div>
 
-![snake gif](https://github.com/joaocamillis/joaocamillis/blob/main/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/joaocamillis/joaocamillis/blob/main/github-contribution-grid-snake.gif)

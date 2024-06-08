@@ -12,4 +12,4 @@
 <img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></div>
 
-![snake gif](https://github.com/joaocamillis/joaocamillis/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/joaocamillis/joaocamillis/blob/output/github-contribution-grid-snake-dark.svg)

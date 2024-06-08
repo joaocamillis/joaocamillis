@@ -1,7 +1,7 @@
 ### Olá, eu sou o João
 
 
-[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao.camillis/)
+[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joao.camillis/)
 
 ![joao camillis GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocamillis&show_icons=true&theme=gruvbox)   
 

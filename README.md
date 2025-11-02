@@ -125,9 +125,9 @@ Estágio / Jovem Aprendiz em **Back-End**.
 <!--LANG-STATS:START-->
 | Linguagem | Linhas | % |
 |---|---:|---:|
-| JSON | 19641 | 23.9 |
+| JSON | 19641 | 23.91 |
 | XML | 18410 | 22.41 |
-| CSS | 11367 | 13.83 |
+| CSS | 11367 | 13.84 |
 | JavaScript | 6629 | 8.07 |
 | JSX | 5585 | 6.8 |
 | HTML | 4798 | 5.84 |
@@ -137,6 +137,6 @@ Estágio / Jovem Aprendiz em **Back-End**.
 | SQL | 1653 | 2.01 |
 | Bourne Shell | 1134 | 1.38 |
 | Properties | 844 | 1.03 |
-| SVG | 806 | 0.98 |
+| SVG | 804 | 0.98 |
 | Gradle | 721 | 0.88 |
 | DOS Batch | 594 | 0.72 |

@@ -75,7 +75,7 @@
     "nFiles": 93,
     "blank": 4,
     "comment": 7,
-    "code": 806
+    "code": 804
   },
   "Gradle": {
     "nFiles": 27,
@@ -164,7 +164,7 @@
   "SUM": {
     "blank": 9027,
     "comment": 4639,
-    "code": 82163,
+    "code": 82161,
     "nFiles": 905
   }
 }

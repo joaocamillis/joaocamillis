@@ -1,16 +1,16 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 1.50266814231873,
-  "n_files"            : 899,
-  "n_lines"            : 95448,
-  "files_per_second"   : 598.269155166076,
-  "lines_per_second"   : 63519.0148190118},
+  "elapsed_seconds"    : 1.50892806053162,
+  "n_files"            : 905,
+  "n_lines"            : 95824,
+  "files_per_second"   : 599.763516678957,
+  "lines_per_second"   : 63504.6842234744},
 "JSON" :{
-  "nFiles": 18,
+  "nFiles": 21,
   "blank": 0,
   "comment": 0,
-  "code": 19317},
+  "code": 19641},
 "XML" :{
   "nFiles": 190,
   "blank": 60,
@@ -67,10 +67,10 @@
   "comment": 301,
   "code": 844},
 "SVG" :{
-  "nFiles": 90,
-  "blank": 0,
-  "comment": 0,
-  "code": 785},
+  "nFiles": 93,
+  "blank": 2,
+  "comment": 3,
+  "code": 802},
 "Gradle" :{
   "nFiles": 27,
   "blank": 66,
@@ -89,8 +89,8 @@
 "Markdown" :{
   "nFiles": 7,
   "blank": 163,
-  "comment": 6,
-  "code": 371},
+  "comment": 4,
+  "code": 403},
 "C" :{
   "nFiles": 3,
   "blank": 55,
@@ -142,7 +142,7 @@
   "comment": 162,
   "code": 0},
 "SUM": {
-  "blank": 9025,
-  "comment": 4634,
-  "code": 81789,
-  "nFiles": 899} }
+  "blank": 9027,
+  "comment": 4635,
+  "code": 82162,
+  "nFiles": 905} }

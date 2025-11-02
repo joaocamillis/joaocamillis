@@ -1,9 +1,9 @@
 {
   "JSON": {
-    "nFiles": 18,
+    "nFiles": 21,
     "blank": 0,
     "comment": 0,
-    "code": 19317
+    "code": 19641
   },
   "XML": {
     "nFiles": 190,
@@ -72,10 +72,10 @@
     "code": 844
   },
   "SVG": {
-    "nFiles": 90,
-    "blank": 0,
-    "comment": 0,
-    "code": 785
+    "nFiles": 93,
+    "blank": 2,
+    "comment": 3,
+    "code": 802
   },
   "Gradle": {
     "nFiles": 27,
@@ -98,8 +98,8 @@
   "Markdown": {
     "nFiles": 7,
     "blank": 163,
-    "comment": 6,
-    "code": 371
+    "comment": 4,
+    "code": 403
   },
   "C": {
     "nFiles": 3,
@@ -162,9 +162,9 @@
     "code": 0
   },
   "SUM": {
-    "blank": 9025,
-    "comment": 4634,
-    "code": 81789,
-    "nFiles": 899
+    "blank": 9027,
+    "comment": 4635,
+    "code": 82162,
+    "nFiles": 905
   }
 }

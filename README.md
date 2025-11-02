@@ -112,7 +112,7 @@ Estágio / Jovem Aprendiz em **Back-End**.
 
 ## 📊 GitHub Insights
 
-> ⚠️ **Aviso**: o gráfico abaixo é calculado por **tamanho de arquivo (bytes)** e pode **não refletir** sua experiência real por linguagem.
+> ⚠️ **Aviso**: o gráfico abaixo é calculado por **tamanho de arquivo (bytes)** e pode **não refletir** a experiência real por linguagem.
 
 <div>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaocamillis&show_icons=true&theme=gruvbox" />

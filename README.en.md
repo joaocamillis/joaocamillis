@@ -96,7 +96,7 @@ Back-End Intern / Trainee.
 <!--LANG-STATS:START-->
 | Linguagem | Linhas | % |
 |---|---:|---:|
-| JSON | 19641 | 23.91 |
+| JSON | 19641 | 23.9 |
 | XML | 18410 | 22.41 |
 | CSS | 11367 | 13.83 |
 | JavaScript | 6629 | 8.07 |
@@ -108,6 +108,6 @@ Back-End Intern / Trainee.
 | SQL | 1653 | 2.01 |
 | Bourne Shell | 1134 | 1.38 |
 | Properties | 844 | 1.03 |
-| SVG | 802 | 0.98 |
+| SVG | 806 | 0.98 |
 | Gradle | 721 | 0.88 |
 | DOS Batch | 594 | 0.72 |

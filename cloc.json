@@ -73,9 +73,9 @@
   },
   "SVG": {
     "nFiles": 93,
-    "blank": 2,
-    "comment": 3,
-    "code": 802
+    "blank": 4,
+    "comment": 7,
+    "code": 806
   },
   "Gradle": {
     "nFiles": 27,
@@ -97,9 +97,9 @@
   },
   "Markdown": {
     "nFiles": 7,
-    "blank": 163,
+    "blank": 161,
     "comment": 4,
-    "code": 403
+    "code": 400
   },
   "C": {
     "nFiles": 3,
@@ -163,8 +163,8 @@
   },
   "SUM": {
     "blank": 9027,
-    "comment": 4635,
-    "code": 82162,
+    "comment": 4639,
+    "code": 82163,
     "nFiles": 905
   }
 }

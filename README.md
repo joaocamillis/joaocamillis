@@ -24,7 +24,8 @@ Sou estudante de **Desenvolvimento de Sistemas (ETEC Zona Leste)**, participante
 **Back-End**  
 - ![nodejs](https://skillicons.dev/icons?i=nodejs) Node.js · ![express](https://skillicons.dev/icons?i=express) Express · Fastify  
 - ![postgres](https://skillicons.dev/icons?i=postgres) PostgreSQL · ![sqlite](https://skillicons.dev/icons?i=sqlite) SQLite · SQL Server  
-- APIs REST · JSON · XML
+- <img src="./assets/restapi.svg" height="80" /> REST APIs · <img src="./assets/json.svg" height="80" /> JSON · <img src="./assets/xml.svg" height="80" /> XML
+
 
 **Front-End**  
 - ![html](https://skillicons.dev/icons?i=html) HTML · ![css](https://skillicons.dev/icons?i=css) CSS · ![js](https://skillicons.dev/icons?i=javascript) JavaScript

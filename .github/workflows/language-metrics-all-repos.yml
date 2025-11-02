@@ -1,0 +1,110 @@
+name: Language Metrics (cloc across ALL repos)
+
+on:
+  push:
+    branches: [ "main" ]
+  schedule:
+    - cron: "17 4 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  GH_USER: joaocamillis
+  API_TOKEN: ${{ secrets.ALL_REPOS_TOKEN }}
+
+jobs:
+  cloc-all-repos:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout this repo
+        uses: actions/checkout@v4
+
+      - name: Install git, cloc and jq
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y git cloc jq curl
+
+      - name: Fetch repo list (include forks, skip archived)
+        id: fetch_repos
+        run: |
+          mkdir -p _all_repos
+          PAGE=1
+          > repos.json
+          AUTH=""
+          if [ -n "${API_TOKEN}" ]; then AUTH="-H \"Authorization: Bearer ${API_TOKEN}\""; fi
+          while :; do
+            RESP=$(bash -lc "curl -s ${AUTH} \"https://api.github.com/users/${GH_USER}/repos?per_page=100&page=${PAGE}\"")
+            COUNT=$(echo "$RESP" | jq 'length')
+            echo "$RESP" | jq -c '.[] | select(.archived==false)' >> repos.json
+            [ "$COUNT" -lt 100 ] && break
+            PAGE=$((PAGE+1))
+          done
+          echo "Total repos listed:" $(wc -l < repos.json)
+
+      - name: Shallow clone all listed repos
+        run: |
+          set -e
+          while read -r line; do
+            NAME=$(echo "$line" | jq -r '.name')
+            CLONE_URL=$(echo "$line" | jq -r '.clone_url')
+            echo "Cloning $NAME ..."
+            git clone --depth 1 "$CLONE_URL" "_all_repos/$NAME" || true
+          done < repos.json
+          ls -la _all_repos || true
+
+      - name: Run cloc across ALL repos
+        run: |
+          cloc _all_repos \
+            --json \
+            --quiet \
+            --skip-uniqueness \
+            --exclude-dir=node_modules,dist,build,.next,.turbo,.venv,venv,target,out,coverage,__pycache__ \
+            > cloc_all.json
+          jq 'del(.header)' cloc_all.json > cloc.json
+
+      - name: Build markdown table
+        id: build_table
+        run: |
+          TOTAL=$(jq 'del(.SUM) | to_entries | map(.value.code) | add // 0' cloc.json)
+          jq -r --arg TOTAL "$TOTAL" '
+            def pct(x): if ($TOTAL|tonumber) == 0 then "0.00" else ((x/($TOTAL|tonumber))*100) end;
+            ["| Linguagem | Linhas | % |",
+             "|---|---:|---:|"] +
+            (del(.SUM)
+             | to_entries
+             | sort_by(.value.code) | reverse
+             | .[0:15]
+             | map("| \(.key) | \(.value.code) | " + ((pct(.value.code)*100|round/100)|tostring) + " |")
+            )
+            | .[]
+          ' cloc.json > lang_table.md
+          echo "TOTAL_CODE=$TOTAL" >> $GITHUB_OUTPUT
+
+      - name: Update README.md
+        run: |
+          START="<!--LANG-STATS:START-->"
+          END="<!--LANG-STATS:END-->"
+          awk -v start="$START" -v end="$END" 'BEGIN{p=1}
+            $0 ~ start {print; system("cat lang_table.md"); p=0}
+            p==1 {print}
+            $0 ~ end {p=1}
+          ' README.md > README.new && mv README.new README.md
+
+      - name: Update README.en.md
+        run: |
+          START="<!--LANG-STATS:START-->"
+          END="<!--LANG-STATS:END-->"
+          awk -v start="$START" -v end="$END" 'BEGIN{p=1}
+            $0 ~ start {print; system("cat lang_table.md"); p=0}
+            p==1 {print}
+            $0 ~ end {p=1}
+          ' README.en.md > README.en.new && mv README.en.new README.en.md
+          rm -f lang_table.md
+
+      - name: Commit updated READMEs
+        uses: stefanzweifel/git-auto-commit-action@v6
+        with:
+          commit_message: "chore(readme): atualizar métricas de linguagens (cloc — all repos)"
+          file_pattern: README.md README.en.md cloc.json cloc_all.json repos.json

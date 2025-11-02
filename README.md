@@ -21,7 +21,8 @@ Sou estudante de **Desenvolvimento de Sistemas (ETEC Zona Leste)**, participante
 
 ## 🛠️ Tech Stack
 
-**Back-End**  
+**Back-End**
+- ![java](https://skillicons.dev/icons?i=java) Java · ![python](https://skillicons.dev/icons?i=python) Python · ![php](https://skillicons.dev/icons?i=php) PHP
 - ![nodejs](https://skillicons.dev/icons?i=nodejs) Node.js · ![express](https://skillicons.dev/icons?i=express) Express · Fastify  
 - ![postgres](https://skillicons.dev/icons?i=postgres) PostgreSQL · ![sqlite](https://skillicons.dev/icons?i=sqlite) SQLite · SQL Server  
 - <img src="./assets/restapi.svg" height="80" /> REST APIs · <img src="./assets/json.svg" height="80" /> JSON · <img src="./assets/xml.svg" height="80" /> XML

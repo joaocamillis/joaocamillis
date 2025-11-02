@@ -1,0 +1,170 @@
+{
+  "JSON": {
+    "nFiles": 18,
+    "blank": 0,
+    "comment": 0,
+    "code": 19317
+  },
+  "XML": {
+    "nFiles": 190,
+    "blank": 60,
+    "comment": 1314,
+    "code": 18410
+  },
+  "CSS": {
+    "nFiles": 52,
+    "blank": 2485,
+    "comment": 97,
+    "code": 11367
+  },
+  "JavaScript": {
+    "nFiles": 71,
+    "blank": 1211,
+    "comment": 280,
+    "code": 6629
+  },
+  "JSX": {
+    "nFiles": 26,
+    "blank": 594,
+    "comment": 19,
+    "code": 5585
+  },
+  "HTML": {
+    "nFiles": 50,
+    "blank": 1037,
+    "comment": 5,
+    "code": 4798
+  },
+  "Java": {
+    "nFiles": 103,
+    "blank": 1166,
+    "comment": 836,
+    "code": 3067
+  },
+  "Kotlin": {
+    "nFiles": 60,
+    "blank": 402,
+    "comment": 343,
+    "code": 2581
+  },
+  "PHP": {
+    "nFiles": 58,
+    "blank": 421,
+    "comment": 79,
+    "code": 2319
+  },
+  "SQL": {
+    "nFiles": 24,
+    "blank": 585,
+    "comment": 272,
+    "code": 1653
+  },
+  "Bourne Shell": {
+    "nFiles": 9,
+    "blank": 207,
+    "comment": 324,
+    "code": 1134
+  },
+  "Properties": {
+    "nFiles": 45,
+    "blank": 0,
+    "comment": 301,
+    "code": 844
+  },
+  "SVG": {
+    "nFiles": 90,
+    "blank": 0,
+    "comment": 0,
+    "code": 785
+  },
+  "Gradle": {
+    "nFiles": 27,
+    "blank": 66,
+    "comment": 9,
+    "code": 721
+  },
+  "DOS Batch": {
+    "nFiles": 9,
+    "blank": 189,
+    "comment": 18,
+    "code": 594
+  },
+  "C++": {
+    "nFiles": 3,
+    "blank": 100,
+    "comment": 47,
+    "code": 431
+  },
+  "Markdown": {
+    "nFiles": 7,
+    "blank": 163,
+    "comment": 6,
+    "code": 371
+  },
+  "C": {
+    "nFiles": 3,
+    "blank": 55,
+    "comment": 45,
+    "code": 322
+  },
+  "TOML": {
+    "nFiles": 11,
+    "blank": 27,
+    "comment": 0,
+    "code": 272
+  },
+  "YAML": {
+    "nFiles": 3,
+    "blank": 16,
+    "comment": 0,
+    "code": 137
+  },
+  "PowerShell": {
+    "nFiles": 2,
+    "blank": 13,
+    "comment": 9,
+    "code": 118
+  },
+  "Text": {
+    "nFiles": 12,
+    "blank": 80,
+    "comment": 0,
+    "code": 113
+  },
+  "Maven": {
+    "nFiles": 6,
+    "blank": 0,
+    "comment": 0,
+    "code": 82
+  },
+  "C/C++ Header": {
+    "nFiles": 1,
+    "blank": 14,
+    "comment": 15,
+    "code": 79
+  },
+  "Ant": {
+    "nFiles": 8,
+    "blank": 104,
+    "comment": 440,
+    "code": 40
+  },
+  "INI": {
+    "nFiles": 2,
+    "blank": 3,
+    "comment": 13,
+    "code": 20
+  },
+  "ProGuard": {
+    "nFiles": 9,
+    "blank": 27,
+    "comment": 162,
+    "code": 0
+  },
+  "SUM": {
+    "blank": 9025,
+    "comment": 4634,
+    "code": 81789,
+    "nFiles": 899
+  }
+}

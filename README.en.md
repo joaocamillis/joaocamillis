@@ -94,5 +94,20 @@ Back-End Intern / Trainee.
 > *Aggregated across **all public repositories**. More representative than bytes.*
 
 <!--LANG-STATS:START-->
-Loading metrics…
-<!--LANG-STATS:END-->
+| Linguagem | Linhas | % |
+|---|---:|---:|
+| JSON | 19317 | 23.62 |
+| XML | 18410 | 22.51 |
+| CSS | 11367 | 13.9 |
+| JavaScript | 6629 | 8.11 |
+| JSX | 5585 | 6.83 |
+| HTML | 4798 | 5.87 |
+| Java | 3067 | 3.75 |
+| Kotlin | 2581 | 3.16 |
+| PHP | 2319 | 2.84 |
+| SQL | 1653 | 2.02 |
+| Bourne Shell | 1134 | 1.39 |
+| Properties | 844 | 1.03 |
+| SVG | 785 | 0.96 |
+| Gradle | 721 | 0.88 |
+| DOS Batch | 594 | 0.73 |

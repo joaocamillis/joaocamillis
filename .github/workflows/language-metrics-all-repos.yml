@@ -112,20 +112,29 @@ jobs:
             $0 ~ end {p=1}
           ' README.en.md > README.en.new && mv README.en.new README.en.md
           rm -f lang_table.md
-
-      # Rebase para evitar non-fast-forward
-      - name: Rebase main (avoid non-fast-forward)
+              # Commit + rebase + push (em um único step, sem action externa)
+      - name: Commit, rebase and push changes
         run: |
+          set -e
+
+          # Identidade do bot
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Se não houve mudanças, não faz nada
+          if git diff --quiet -- README.md README.en.md cloc.json cloc_all.json repos.json; then
+            echo "No changes to commit."
+            exit 0
+          fi
+
+          # 1) Commit das mudanças geradas pelo job
+          git add README.md README.en.md cloc.json cloc_all.json repos.json
+          git commit -m "chore(readme): atualizar métricas de linguagens (cloc — all repos)"
+
+          # 2) Rebase para evitar non-fast-forward
           git fetch origin main
           git pull --rebase origin main
 
-      # Commit + push com proteção (--force-with-lease)
-      - name: Commit updated READMEs
-        uses: stefanzweifel/git-auto-commit-action@v6
-        with:
-          branch: main
-          commit_message: "chore(readme): atualizar métricas de linguagens (cloc — all repos)"
-          file_pattern: README.md README.en.md cloc.json cloc_all.json repos.json
-          push_options: --force-with-lease
+          # 3) Push protegido
+          git push origin HEAD:main --force-with-lease
+

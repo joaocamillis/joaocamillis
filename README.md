@@ -1,16 +1,137 @@
-### Hello, I'm João
+# 👋 João Pedro Rodrigues  
+### Back-End Developer
+
+<p align="center">
+  <a href="./README.md">
+    <img src="./assets/lang-pt.svg" alt="Português" />
+  </a>
+  <a href="./README.en.md">
+    <img src="./assets/lang-en-inactive.svg" alt="English" />
+  </a>
+</p>
 
 
-[![Insta](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joao.camillis/)
 
-![joao camillis GitHub stats](https://github-readme-stats.vercel.app/api?username=joaocamillis&show_icons=true&theme=gruvbox)   
 
-## Estou aprendendo:
 
-<div style="display: inline_block"> </br> <img aling="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img aling="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+
+Sou estudante de **Desenvolvimento de Sistemas (ETEC Zona Leste)**, participante do programa **IBM P-TECH**, com foco em **back-end**: design de APIs REST, bancos relacionais e qualidade de código. Busco **Estágio / Jovem Aprendiz em Back-End**.
+
+📍 São Paulo – SP · ⏰ Estudo 13h–18h  
+🧭 Disponível: Remoto · Híbrido · Presencial (preferência manhã)  
+🎯 **Aberto a oportunidades**
+
+---
+
+## 🛠️ Tech Stack
+
+**Back-End**  
+- ![nodejs](https://skillicons.dev/icons?i=nodejs) Node.js · ![express](https://skillicons.dev/icons?i=express) Express · Fastify  
+- ![postgres](https://skillicons.dev/icons?i=postgres) PostgreSQL · ![sqlite](https://skillicons.dev/icons?i=sqlite) SQLite · SQL Server  
+- APIs REST · JSON · XML
+
+**Front-End**  
+- ![html](https://skillicons.dev/icons?i=html) HTML · ![css](https://skillicons.dev/icons?i=css) CSS · ![js](https://skillicons.dev/icons?i=javascript) JavaScript
+
+## 🛠️ Ferramentas  
+
+<div style="display: flex; align-items: center; gap: 8px; flex-wrap: wrap;">
+
+<img src="https://skillicons.dev/icons?i=git" height="32" alt="git" />
+<img src="https://skillicons.dev/icons?i=github" height="32" alt="github" />
+<img src="https://skillicons.dev/icons?i=vscode" height="32" alt="vscode" />
+<img src="https://skillicons.dev/icons?i=androidstudio" height="32" alt="android-studio" />
+
+<!-- Insomnia -->
+<img src="https://raw.githubusercontent.com/getinsomnia/insomnia/develop/packages/insomnia/src/ui/images/insomnia-logo.svg" height="32" alt="insomnia" />
+
+
+<!-- NetBeans -->
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" height="32" alt="netbeans" />
+
 </div>
 
 
+---
+
+## 📌 Projetos de Destaque
+
+### 🔹 VetMate
+Plataforma para facilitar o cuidado com a saúde animal: cadastro de pets, agendamento, controle de medicamentos e chatbot para pré-diagnóstico.  
+**Tech:** HTML · CSS · JavaScript  
+🔗 GitHub: https://github.com/joaocamillis/VetMate
+
+---
+
+### 🔹 Fluxum — IoT + Cloud Dashboard
+Dashboard para rastrear movimentações de contêineres em tempo real, integrando IoT (ESP32 + GPS + RFID) com API em Node e banco PostgreSQL.  
+**Tech:** Node.js · Express · PostgreSQL · React · Tailwind  
+🔗 GitHub: https://github.com/joaocamillis/Fluxum
+
+---
+
+### 🔹 Xarc — Gamificação de Produtividade
+Sistema gamificado com missões, ranking e autenticação JWT.  
+**Tech:** Node.js · Fastify · PostgreSQL · JavaScript  
+🔗 GitHub: https://github.com/joaocamillis/Xarc
+
+---
+
+## 🗺️ Linha do Tempo (resumo)
+- **2024** — Início DS AMS (ETEC Zona Leste) · IBM P-TECH  
+- **2024** — Projeto **VetMate**  
+- **2025** — Projetos **Fluxum** e **Xarc**  
+- **2025** — Participação **Venturus** e **CNIT 2025**
+
+---
+
+## 🎓 Formação & Cursos
+- **ETEC Zona Leste — DS (2º ano)** · Programa **IBM P-TECH**
+- **Python for Everybody (5 cursos – Univ. Michigan)**
+- Agile Explorer — IBM SkillsBuild  
+- Explorations into Mindfulness — IBM SkillsBuild  
+- Working in a Digital World — IBM SkillsBuild  
+- TIC – Fundamentos de Tecnologia da Informação e Comunicação (Abr/2025)  
+- (Em andamento) **CS50x**
+
+---
+
+## 🏅 Idiomas
+- 🇧🇷 Português — Nativo  
+- 🇺🇸 Inglês — B1–B2 (boa leitura técnica e comunicação básica em contextos de TI)
+
+---
+
+## 🤝 Aberto a Oportunidades
+Estágio / Jovem Aprendiz em **Back-End**.
+
+---
+
+## 📫 Contato
+**Email:** joaocomercial2233@gmail.com  
+**LinkedIn:** www.linkedin.com/in/joão-pedro-rodrigues-de-camillis-07248136a
+
+---
+
+## 📊 GitHub Insights
+
+> ⚠️ **Aviso**: o gráfico abaixo é calculado por **tamanho de arquivo (bytes)** e pode **não refletir** sua experiência real por linguagem.
+
+<div>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=joaocamillis&show_icons=true&theme=gruvbox" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocamillis&layout=compact&theme=gruvbox" />
+</div>
+
+### 📈 Uso de Linguagens por **Linhas de Código** (cloc)
+> *Estimativa por **linhas de código** agregando **todos os repositórios públicos**. Pode variar conforme pastas ignoradas. Esta métrica é **mais fiel** do que o gráfico por bytes acima.*
+
+<!--LANG-STATS:START-->
+Carregando métricas…
+<!--LANG-STATS:END-->
+
+---
+> **Paleta (dark, profissional):**  
+> Primária `#0D1117` · Secundária `#161B22` · Destaque `#2F81F7` · Apoio `#8B949E` · Acento1 `#F78166` · Acento2 `#3FB950`
+ 

@@ -1,6 +1,3 @@
-# 👋 João Pedro Rodrigues  
-### Back-End Developer
-
 <p align="center">
   <a href="./README.md">
     <img src="./assets/lang-pt.svg" alt="Português" />
@@ -11,10 +8,8 @@
 </p>
 
 
-
-
-
-
+# 👋 João Pedro Rodrigues  
+### Back-End Developer
 
 Sou estudante de **Desenvolvimento de Sistemas (ETEC Zona Leste)**, participante do programa **IBM P-TECH**, com foco em **back-end**: design de APIs REST, bancos relacionais e qualidade de código. Busco **Estágio / Jovem Aprendiz em Back-End**.
 

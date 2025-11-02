@@ -115,9 +115,9 @@
   },
   "YAML": {
     "nFiles": 3,
-    "blank": 16,
-    "comment": 0,
-    "code": 137
+    "blank": 22,
+    "comment": 9,
+    "code": 152
   },
   "PowerShell": {
     "nFiles": 2,
@@ -162,9 +162,9 @@
     "code": 0
   },
   "SUM": {
-    "blank": 9028,
-    "comment": 4639,
-    "code": 82162,
+    "blank": 9034,
+    "comment": 4648,
+    "code": 82177,
     "nFiles": 905
   }
 }

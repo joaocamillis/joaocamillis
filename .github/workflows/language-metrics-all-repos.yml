@@ -4,22 +4,32 @@ on:
   push:
     branches: [ "main" ]
   schedule:
-    - cron: "17 4 * * 1"
+    - cron: "17 4 * * 1"   # segundas 04:17 UTC
   workflow_dispatch:
+
+# Evita corridas no mesmo branch
+concurrency:
+  group: lang-metrics-${{ github.ref }}
+  cancel-in-progress: false
 
 permissions:
   contents: write
 
 env:
   GH_USER: joaocamillis
+  # Para incluir repos privados, crie um PAT (escopo repo) em Settings > Secrets > Actions: ALL_REPOS_TOKEN
   API_TOKEN: ${{ secrets.ALL_REPOS_TOKEN }}
 
 jobs:
   cloc-all-repos:
     runs-on: ubuntu-latest
     steps:
+      # Checkout com histórico completo (necessário para rebase)
       - name: Checkout this repo
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
       - name: Install git, cloc and jq
         run: |
@@ -82,7 +92,7 @@ jobs:
           ' cloc.json > lang_table.md
           echo "TOTAL_CODE=$TOTAL" >> $GITHUB_OUTPUT
 
-      - name: Update README.md
+      - name: Update README.md (PT-BR)
         run: |
           START="<!--LANG-STATS:START-->"
           END="<!--LANG-STATS:END-->"
@@ -92,7 +102,7 @@ jobs:
             $0 ~ end {p=1}
           ' README.md > README.new && mv README.new README.md
 
-      - name: Update README.en.md
+      - name: Update README.en.md (EN)
         run: |
           START="<!--LANG-STATS:START-->"
           END="<!--LANG-STATS:END-->"
@@ -103,8 +113,19 @@ jobs:
           ' README.en.md > README.en.new && mv README.en.new README.en.md
           rm -f lang_table.md
 
+      # Rebase para evitar non-fast-forward
+      - name: Rebase main (avoid non-fast-forward)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin main
+          git pull --rebase origin main
+
+      # Commit + push com proteção (--force-with-lease)
       - name: Commit updated READMEs
         uses: stefanzweifel/git-auto-commit-action@v6
         with:
+          branch: main
           commit_message: "chore(readme): atualizar métricas de linguagens (cloc — all repos)"
           file_pattern: README.md README.en.md cloc.json cloc_all.json repos.json
+          push_options: --force-with-lease

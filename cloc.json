@@ -6,10 +6,10 @@
     "code": 19641
   },
   "XML": {
-    "nFiles": 190,
-    "blank": 60,
-    "comment": 1314,
-    "code": 18410
+    "nFiles": 213,
+    "blank": 69,
+    "comment": 1415,
+    "code": 18863
   },
   "CSS": {
     "nFiles": 52,
@@ -42,10 +42,10 @@
     "code": 3067
   },
   "Kotlin": {
-    "nFiles": 60,
-    "blank": 402,
-    "comment": 343,
-    "code": 2581
+    "nFiles": 73,
+    "blank": 450,
+    "comment": 411,
+    "code": 3013
   },
   "PHP": {
     "nFiles": 58,
@@ -60,16 +60,22 @@
     "code": 1653
   },
   "Bourne Shell": {
-    "nFiles": 9,
-    "blank": 207,
-    "comment": 324,
-    "code": 1134
+    "nFiles": 11,
+    "blank": 258,
+    "comment": 478,
+    "code": 1365
+  },
+  "Gradle": {
+    "nFiles": 33,
+    "blank": 80,
+    "comment": 56,
+    "code": 879
   },
   "Properties": {
-    "nFiles": 45,
+    "nFiles": 49,
     "blank": 0,
-    "comment": 301,
-    "code": 844
+    "comment": 340,
+    "code": 864
   },
   "SVG": {
     "nFiles": 93,
@@ -77,29 +83,23 @@
     "comment": 7,
     "code": 804
   },
-  "Gradle": {
-    "nFiles": 27,
-    "blank": 66,
-    "comment": 9,
-    "code": 721
-  },
   "DOS Batch": {
-    "nFiles": 9,
-    "blank": 189,
-    "comment": 18,
-    "code": 594
+    "nFiles": 11,
+    "blank": 231,
+    "comment": 22,
+    "code": 731
+  },
+  "Markdown": {
+    "nFiles": 12,
+    "blank": 192,
+    "comment": 4,
+    "code": 472
   },
   "C++": {
     "nFiles": 3,
     "blank": 100,
     "comment": 47,
     "code": 431
-  },
-  "Markdown": {
-    "nFiles": 7,
-    "blank": 162,
-    "comment": 4,
-    "code": 401
   },
   "C": {
     "nFiles": 3,
@@ -108,16 +108,16 @@
     "code": 322
   },
   "TOML": {
-    "nFiles": 11,
-    "blank": 27,
+    "nFiles": 12,
+    "blank": 30,
     "comment": 0,
-    "code": 272
+    "code": 301
   },
   "YAML": {
-    "nFiles": 3,
-    "blank": 22,
+    "nFiles": 4,
+    "blank": 28,
     "comment": 9,
-    "code": 152
+    "code": 175
   },
   "PowerShell": {
     "nFiles": 2,
@@ -156,15 +156,15 @@
     "code": 20
   },
   "ProGuard": {
-    "nFiles": 9,
-    "blank": 27,
-    "comment": 162,
+    "nFiles": 11,
+    "blank": 33,
+    "comment": 198,
     "code": 0
   },
   "SUM": {
-    "blank": 9034,
-    "comment": 4648,
-    "code": 82177,
-    "nFiles": 905
+    "blank": 9243,
+    "comment": 5097,
+    "code": 83731,
+    "nFiles": 964
   }
 }

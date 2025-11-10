@@ -96,18 +96,18 @@ Back-End Intern / Trainee.
 <!--LANG-STATS:START-->
 | Linguagem | Linhas | % |
 |---|---:|---:|
-| JSON | 19641 | 23.9 |
-| XML | 18410 | 22.4 |
-| CSS | 11367 | 13.83 |
-| JavaScript | 6629 | 8.07 |
-| JSX | 5585 | 6.8 |
-| HTML | 4798 | 5.84 |
-| Java | 3067 | 3.73 |
-| Kotlin | 2581 | 3.14 |
-| PHP | 2319 | 2.82 |
-| SQL | 1653 | 2.01 |
-| Bourne Shell | 1134 | 1.38 |
-| Properties | 844 | 1.03 |
-| SVG | 804 | 0.98 |
-| Gradle | 721 | 0.88 |
-| DOS Batch | 594 | 0.72 |
+| JSON | 19641 | 23.46 |
+| XML | 18863 | 22.53 |
+| CSS | 11367 | 13.58 |
+| JavaScript | 6629 | 7.92 |
+| JSX | 5585 | 6.67 |
+| HTML | 4798 | 5.73 |
+| Java | 3067 | 3.66 |
+| Kotlin | 3013 | 3.6 |
+| PHP | 2319 | 2.77 |
+| SQL | 1653 | 1.97 |
+| Bourne Shell | 1365 | 1.63 |
+| Gradle | 879 | 1.05 |
+| Properties | 864 | 1.03 |
+| SVG | 804 | 0.96 |
+| DOS Batch | 731 | 0.87 |

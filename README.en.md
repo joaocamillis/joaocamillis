@@ -56,7 +56,7 @@ Brazilian **Back-End** student (ETEC Zona Leste / IBM P-TECH) focused on REST AP
 ---
 
 ## 🎓 Education & Courses
-- **ETEC Zona Leste — DS (2nd year)** · **IBM P-TECH**
+- **ETEC Zona Leste — DS (3nd year)** · **IBM P-TECH**
 - **Python for Everybody (5 courses – Univ. of Michigan)**
 - Agile Explorer · Explorations into Mindfulness · Working in a Digital World — IBM SkillsBuild  
 - TIC — Fundamentals of ICT (Apr/2025)  

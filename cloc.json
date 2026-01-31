@@ -6,10 +6,10 @@
     "code": 19641
   },
   "XML": {
-    "nFiles": 213,
+    "nFiles": 214,
     "blank": 69,
     "comment": 1415,
-    "code": 18863
+    "code": 18864
   },
   "CSS": {
     "nFiles": 52,
@@ -60,22 +60,40 @@
     "code": 1653
   },
   "Bourne Shell": {
-    "nFiles": 11,
-    "blank": 258,
-    "comment": 478,
-    "code": 1365
+    "nFiles": 13,
+    "blank": 288,
+    "comment": 507,
+    "code": 1511
+  },
+  "C": {
+    "nFiles": 8,
+    "blank": 321,
+    "comment": 271,
+    "code": 1459
+  },
+  "C++": {
+    "nFiles": 6,
+    "blank": 144,
+    "comment": 70,
+    "code": 1085
   },
   "Gradle": {
-    "nFiles": 33,
-    "blank": 80,
+    "nFiles": 37,
+    "blank": 102,
     "comment": 56,
-    "code": 879
+    "code": 1013
   },
   "Properties": {
-    "nFiles": 49,
+    "nFiles": 51,
     "blank": 0,
-    "comment": 340,
-    "code": 864
+    "comment": 357,
+    "code": 872
+  },
+  "C/C++ Header": {
+    "nFiles": 14,
+    "blank": 217,
+    "comment": 334,
+    "code": 826
   },
   "SVG": {
     "nFiles": 93,
@@ -84,28 +102,16 @@
     "code": 804
   },
   "DOS Batch": {
-    "nFiles": 11,
-    "blank": 231,
-    "comment": 22,
-    "code": 731
+    "nFiles": 12,
+    "blank": 254,
+    "comment": 24,
+    "code": 790
   },
   "Markdown": {
-    "nFiles": 12,
-    "blank": 192,
+    "nFiles": 14,
+    "blank": 195,
     "comment": 4,
-    "code": 472
-  },
-  "C++": {
-    "nFiles": 3,
-    "blank": 100,
-    "comment": 47,
-    "code": 431
-  },
-  "C": {
-    "nFiles": 3,
-    "blank": 55,
-    "comment": 45,
-    "code": 322
+    "code": 509
   },
   "TOML": {
     "nFiles": 12,
@@ -114,10 +120,10 @@
     "code": 301
   },
   "YAML": {
-    "nFiles": 4,
-    "blank": 28,
+    "nFiles": 5,
+    "blank": 29,
     "comment": 9,
-    "code": 175
+    "code": 201
   },
   "PowerShell": {
     "nFiles": 2,
@@ -137,17 +143,17 @@
     "comment": 0,
     "code": 82
   },
-  "C/C++ Header": {
-    "nFiles": 1,
-    "blank": 14,
-    "comment": 15,
-    "code": 79
-  },
   "Ant": {
     "nFiles": 8,
     "blank": 104,
     "comment": 440,
     "code": 40
+  },
+  "CMake": {
+    "nFiles": 1,
+    "blank": 11,
+    "comment": 0,
+    "code": 35
   },
   "INI": {
     "nFiles": 2,
@@ -162,9 +168,9 @@
     "code": 0
   },
   "SUM": {
-    "blank": 9243,
-    "comment": 5097,
-    "code": 83731,
-    "nFiles": 964
+    "blank": 9846,
+    "comment": 5713,
+    "code": 86715,
+    "nFiles": 999
   }
 }

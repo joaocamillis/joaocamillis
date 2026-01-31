@@ -3,7 +3,7 @@
     "nFiles": 21,
     "blank": 0,
     "comment": 0,
-    "code": 19641
+    "code": 19653
   },
   "XML": {
     "nFiles": 214,
@@ -170,7 +170,7 @@
   "SUM": {
     "blank": 9846,
     "comment": 5713,
-    "code": 86715,
+    "code": 86727,
     "nFiles": 999
   }
 }

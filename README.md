@@ -127,7 +127,7 @@ Estágio / Jovem Aprendiz em **Back-End**.
 <!--LANG-STATS:START-->
 | Linguagem | Linhas | % |
 |---|---:|---:|
-| JSON | 19641 | 22.65 |
+| JSON | 19653 | 22.66 |
 | XML | 18864 | 21.75 |
 | CSS | 11367 | 13.11 |
 | JavaScript | 6629 | 7.64 |

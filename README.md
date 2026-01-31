@@ -85,7 +85,7 @@ Sistema gamificado com missões, ranking e autenticação JWT.
 ---
 
 ## 🎓 Formação & Cursos
-- **ETEC Zona Leste — DS (2º ano)** · Programa **IBM P-TECH**
+- **ETEC Zona Leste — DS (3º ano)** · Programa **IBM P-TECH**
 - **Python for Everybody (5 cursos – Univ. Michigan)**
 - Agile Explorer — IBM SkillsBuild  
 - Explorations into Mindfulness — IBM SkillsBuild  

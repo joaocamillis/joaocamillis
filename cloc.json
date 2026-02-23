@@ -1,15 +1,21 @@
 {
+  "Text": {
+    "nFiles": 20,
+    "blank": 15034,
+    "comment": 0,
+    "code": 120337
+  },
   "JSON": {
-    "nFiles": 21,
+    "nFiles": 23,
     "blank": 0,
     "comment": 0,
-    "code": 19653
+    "code": 21515
   },
   "XML": {
-    "nFiles": 214,
-    "blank": 69,
+    "nFiles": 215,
+    "blank": 71,
     "comment": 1415,
-    "code": 18864
+    "code": 18869
   },
   "CSS": {
     "nFiles": 52,
@@ -17,11 +23,17 @@
     "comment": 97,
     "code": 11367
   },
+  "Python": {
+    "nFiles": 99,
+    "blank": 2621,
+    "comment": 4904,
+    "code": 8309
+  },
   "JavaScript": {
-    "nFiles": 71,
+    "nFiles": 72,
     "blank": 1211,
     "comment": 280,
-    "code": 6629
+    "code": 6906
   },
   "JSX": {
     "nFiles": 26,
@@ -30,10 +42,10 @@
     "code": 5585
   },
   "HTML": {
-    "nFiles": 50,
-    "blank": 1037,
+    "nFiles": 51,
+    "blank": 1054,
     "comment": 5,
-    "code": 4798
+    "code": 4953
   },
   "Java": {
     "nFiles": 103,
@@ -89,6 +101,12 @@
     "comment": 357,
     "code": 872
   },
+  "CSV": {
+    "nFiles": 3,
+    "blank": 0,
+    "comment": 0,
+    "code": 852
+  },
   "C/C++ Header": {
     "nFiles": 14,
     "blank": 217,
@@ -108,10 +126,10 @@
     "code": 790
   },
   "Markdown": {
-    "nFiles": 14,
-    "blank": 195,
+    "nFiles": 15,
+    "blank": 217,
     "comment": 4,
-    "code": 509
+    "code": 573
   },
   "TOML": {
     "nFiles": 12,
@@ -130,12 +148,6 @@
     "blank": 13,
     "comment": 9,
     "code": 118
-  },
-  "Text": {
-    "nFiles": 12,
-    "blank": 80,
-    "comment": 0,
-    "code": 113
   },
   "Maven": {
     "nFiles": 6,
@@ -168,9 +180,9 @@
     "code": 0
   },
   "SUM": {
-    "blank": 9846,
-    "comment": 5713,
-    "code": 86727,
-    "nFiles": 999
+    "blank": 27462,
+    "comment": 10617,
+    "code": 218475,
+    "nFiles": 1115
   }
 }

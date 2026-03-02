@@ -96,8 +96,8 @@ Back-End Intern / Trainee.
 <!--LANG-STATS:START-->
 | Linguagem | Linhas | % |
 |---|---:|---:|
-| Text | 120337 | 55.08 |
-| JSON | 21515 | 9.85 |
+| Text | 120337 | 55.07 |
+| JSON | 21538 | 9.86 |
 | XML | 18869 | 8.64 |
 | CSS | 11367 | 5.2 |
 | Python | 8309 | 3.8 |

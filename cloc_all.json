@@ -1,16 +1,16 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 2.14494800567627,
-  "n_files"            : 1115,
-  "n_lines"            : 256577,
-  "files_per_second"   : 519.826120283255,
-  "lines_per_second"   : 119619.216559567},
+  "elapsed_seconds"    : 2.23777389526367,
+  "n_files"            : 1145,
+  "n_lines"            : 258152,
+  "files_per_second"   : 511.669209486907,
+  "lines_per_second"   : 115361.07403272},
 "Text" :{
-  "nFiles": 20,
+  "nFiles": 22,
   "blank": 15034,
   "comment": 0,
-  "code": 120337},
+  "code": 120362},
 "JSON" :{
   "nFiles": 23,
   "blank": 0,
@@ -27,10 +27,10 @@
   "comment": 97,
   "code": 11367},
 "Python" :{
-  "nFiles": 99,
-  "blank": 2621,
-  "comment": 4904,
-  "code": 8309},
+  "nFiles": 125,
+  "blank": 3033,
+  "comment": 4912,
+  "code": 9408},
 "JavaScript" :{
   "nFiles": 72,
   "blank": 1211,
@@ -122,10 +122,10 @@
   "comment": 0,
   "code": 301},
 "YAML" :{
-  "nFiles": 5,
-  "blank": 29,
+  "nFiles": 6,
+  "blank": 30,
   "comment": 9,
-  "code": 201},
+  "code": 212},
 "PowerShell" :{
   "nFiles": 2,
   "blank": 13,
@@ -151,13 +151,18 @@
   "blank": 3,
   "comment": 13,
   "code": 20},
+"Dockerfile" :{
+  "nFiles": 1,
+  "blank": 8,
+  "comment": 0,
+  "code": 11},
 "ProGuard" :{
   "nFiles": 11,
   "blank": 33,
   "comment": 198,
   "code": 0},
 "SUM": {
-  "blank": 27462,
-  "comment": 10617,
-  "code": 218498,
-  "nFiles": 1115} }
+  "blank": 27883,
+  "comment": 10625,
+  "code": 219644,
+  "nFiles": 1145} }

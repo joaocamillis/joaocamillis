@@ -1,41 +1,41 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 2.14602494239807,
-  "n_files"            : 1182,
-  "n_lines"            : 259765,
-  "files_per_second"   : 550.785769842533,
-  "lines_per_second"   : 121044.725467974},
+  "elapsed_seconds"    : 2.15671586990356,
+  "n_files"            : 1301,
+  "n_lines"            : 267599,
+  "files_per_second"   : 603.231987187155,
+  "lines_per_second"   : 124077.076509835},
 "Text" :{
-  "nFiles": 22,
+  "nFiles": 23,
   "blank": 15034,
   "comment": 0,
-  "code": 120362},
+  "code": 120364},
 "JSON" :{
-  "nFiles": 23,
+  "nFiles": 27,
   "blank": 0,
   "comment": 0,
-  "code": 21550},
+  "code": 23369},
 "XML" :{
-  "nFiles": 236,
+  "nFiles": 237,
   "blank": 75,
   "comment": 1441,
-  "code": 19566},
+  "code": 19602},
 "CSS" :{
-  "nFiles": 52,
-  "blank": 2485,
-  "comment": 97,
-  "code": 11367},
+  "nFiles": 53,
+  "blank": 2498,
+  "comment": 101,
+  "code": 11436},
 "Python" :{
   "nFiles": 125,
   "blank": 3033,
   "comment": 4912,
   "code": 9408},
 "JavaScript" :{
-  "nFiles": 72,
-  "blank": 1211,
+  "nFiles": 73,
+  "blank": 1212,
   "comment": 280,
-  "code": 6906},
+  "code": 6926},
 "JSX" :{
   "nFiles": 26,
   "blank": 594,
@@ -46,6 +46,11 @@
   "blank": 1054,
   "comment": 5,
   "code": 4953},
+"PHP" :{
+  "nFiles": 116,
+  "blank": 1007,
+  "comment": 885,
+  "code": 4253},
 "Kotlin" :{
   "nFiles": 79,
   "blank": 495,
@@ -56,11 +61,11 @@
   "blank": 1166,
   "comment": 836,
   "code": 3067},
-"PHP" :{
-  "nFiles": 58,
-  "blank": 421,
-  "comment": 79,
-  "code": 2319},
+"Blade" :{
+  "nFiles": 50,
+  "blank": 292,
+  "comment": 25,
+  "code": 2159},
 "SQL" :{
   "nFiles": 24,
   "blank": 585,
@@ -107,15 +112,15 @@
   "comment": 334,
   "code": 826},
 "SVG" :{
-  "nFiles": 93,
+  "nFiles": 94,
   "blank": 4,
   "comment": 7,
-  "code": 804},
+  "code": 807},
 "Markdown" :{
-  "nFiles": 16,
-  "blank": 230,
+  "nFiles": 17,
+  "blank": 240,
   "comment": 4,
-  "code": 588},
+  "code": 625},
 "TOML" :{
   "nFiles": 13,
   "blank": 33,
@@ -147,10 +152,10 @@
   "comment": 0,
   "code": 35},
 "INI" :{
-  "nFiles": 2,
-  "blank": 3,
+  "nFiles": 3,
+  "blank": 7,
   "comment": 13,
-  "code": 20},
+  "code": 34},
 "Dockerfile" :{
   "nFiles": 1,
   "blank": 8,
@@ -162,7 +167,7 @@
   "comment": 216,
   "code": 0},
 "SUM": {
-  "blank": 28003,
-  "comment": 10766,
-  "code": 220996,
-  "nFiles": 1182} }
+  "blank": 28909,
+  "comment": 11601,
+  "code": 227089,
+  "nFiles": 1301} }

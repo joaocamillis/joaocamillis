@@ -1,27 +1,27 @@
 {
   "Text": {
-    "nFiles": 23,
+    "nFiles": 24,
     "blank": 15034,
     "comment": 0,
-    "code": 120364
+    "code": 120366
   },
   "JSON": {
-    "nFiles": 27,
-    "blank": 0,
+    "nFiles": 32,
+    "blank": 8,
     "comment": 0,
-    "code": 23381
+    "code": 23686
   },
   "XML": {
-    "nFiles": 237,
-    "blank": 75,
-    "comment": 1441,
-    "code": 19602
+    "nFiles": 260,
+    "blank": 93,
+    "comment": 1473,
+    "code": 20103
   },
   "CSS": {
-    "nFiles": 53,
-    "blank": 2498,
-    "comment": 101,
-    "code": 11436
+    "nFiles": 54,
+    "blank": 2520,
+    "comment": 151,
+    "code": 11536
   },
   "Python": {
     "nFiles": 125,
@@ -30,10 +30,16 @@
     "code": 9408
   },
   "JavaScript": {
-    "nFiles": 73,
-    "blank": 1212,
+    "nFiles": 74,
+    "blank": 1214,
     "comment": 280,
-    "code": 6926
+    "code": 7026
+  },
+  "PHP": {
+    "nFiles": 170,
+    "blank": 1582,
+    "comment": 1791,
+    "code": 6066
   },
   "JSX": {
     "nFiles": 26,
@@ -41,23 +47,23 @@
     "comment": 19,
     "code": 5585
   },
+  "Vuejs Component": {
+    "nFiles": 159,
+    "blank": 582,
+    "comment": 26,
+    "code": 5496
+  },
   "HTML": {
     "nFiles": 51,
     "blank": 1054,
     "comment": 5,
     "code": 4953
   },
-  "PHP": {
-    "nFiles": 116,
-    "blank": 1007,
-    "comment": 885,
-    "code": 4253
-  },
   "Kotlin": {
-    "nFiles": 79,
-    "blank": 495,
-    "comment": 449,
-    "code": 3323
+    "nFiles": 84,
+    "blank": 550,
+    "comment": 460,
+    "code": 3539
   },
   "Java": {
     "nFiles": 103,
@@ -66,22 +72,22 @@
     "code": 3067
   },
   "Blade": {
-    "nFiles": 50,
-    "blank": 292,
-    "comment": 25,
-    "code": 2159
+    "nFiles": 55,
+    "blank": 303,
+    "comment": 27,
+    "code": 2228
   },
   "SQL": {
-    "nFiles": 24,
-    "blank": 585,
+    "nFiles": 25,
+    "blank": 614,
     "comment": 272,
-    "code": 1653
+    "code": 1767
   },
   "Bourne Shell": {
-    "nFiles": 14,
-    "blank": 311,
-    "comment": 543,
-    "code": 1637
+    "nFiles": 15,
+    "blank": 334,
+    "comment": 579,
+    "code": 1763
   },
   "C": {
     "nFiles": 8,
@@ -90,10 +96,10 @@
     "code": 1459
   },
   "Gradle": {
-    "nFiles": 40,
-    "blank": 110,
-    "comment": 57,
-    "code": 1102
+    "nFiles": 43,
+    "blank": 118,
+    "comment": 58,
+    "code": 1170
   },
   "C++": {
     "nFiles": 6,
@@ -101,17 +107,17 @@
     "comment": 70,
     "code": 1085
   },
-  "Properties": {
-    "nFiles": 53,
-    "blank": 0,
-    "comment": 377,
-    "code": 881
-  },
   "DOS Batch": {
-    "nFiles": 13,
-    "blank": 275,
-    "comment": 26,
-    "code": 856
+    "nFiles": 14,
+    "blank": 296,
+    "comment": 28,
+    "code": 922
+  },
+  "Properties": {
+    "nFiles": 55,
+    "blank": 0,
+    "comment": 397,
+    "code": 890
   },
   "CSV": {
     "nFiles": 3,
@@ -126,28 +132,34 @@
     "code": 826
   },
   "SVG": {
-    "nFiles": 94,
+    "nFiles": 95,
     "blank": 4,
     "comment": 7,
-    "code": 807
+    "code": 810
+  },
+  "TypeScript": {
+    "nFiles": 37,
+    "blank": 97,
+    "comment": 7,
+    "code": 681
   },
   "Markdown": {
-    "nFiles": 17,
-    "blank": 240,
+    "nFiles": 18,
+    "blank": 253,
     "comment": 4,
-    "code": 625
+    "code": 647
   },
   "TOML": {
-    "nFiles": 13,
-    "blank": 33,
+    "nFiles": 14,
+    "blank": 36,
     "comment": 0,
-    "code": 329
+    "code": 352
   },
   "YAML": {
-    "nFiles": 6,
-    "blank": 30,
-    "comment": 9,
-    "code": 212
+    "nFiles": 9,
+    "blank": 50,
+    "comment": 14,
+    "code": 294
   },
   "PowerShell": {
     "nFiles": 2,
@@ -161,6 +173,12 @@
     "comment": 0,
     "code": 82
   },
+  "INI": {
+    "nFiles": 4,
+    "blank": 11,
+    "comment": 13,
+    "code": 48
+  },
   "Ant": {
     "nFiles": 8,
     "blank": 104,
@@ -173,12 +191,6 @@
     "comment": 0,
     "code": 35
   },
-  "INI": {
-    "nFiles": 3,
-    "blank": 7,
-    "comment": 13,
-    "code": 34
-  },
   "Dockerfile": {
     "nFiles": 1,
     "blank": 8,
@@ -186,15 +198,15 @@
     "code": 11
   },
   "ProGuard": {
-    "nFiles": 12,
-    "blank": 36,
-    "comment": 216,
+    "nFiles": 13,
+    "blank": 39,
+    "comment": 234,
     "code": 0
   },
   "SUM": {
-    "blank": 28909,
-    "comment": 11601,
-    "code": 227101,
-    "nFiles": 1301
+    "blank": 30403,
+    "comment": 12717,
+    "code": 236911,
+    "nFiles": 1608
   }
 }

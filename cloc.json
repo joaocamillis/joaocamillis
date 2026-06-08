@@ -1,21 +1,21 @@
 {
   "Text": {
-    "nFiles": 24,
+    "nFiles": 26,
     "blank": 15034,
     "comment": 0,
-    "code": 120366
+    "code": 120368
   },
   "JSON": {
     "nFiles": 32,
     "blank": 8,
     "comment": 0,
-    "code": 23686
+    "code": 23708
   },
   "XML": {
-    "nFiles": 260,
-    "blank": 93,
+    "nFiles": 262,
+    "blank": 117,
     "comment": 1473,
-    "code": 20103
+    "code": 20238
   },
   "CSS": {
     "nFiles": 54,
@@ -60,10 +60,10 @@
     "code": 4953
   },
   "Kotlin": {
-    "nFiles": 84,
-    "blank": 550,
+    "nFiles": 87,
+    "blank": 597,
     "comment": 460,
-    "code": 3539
+    "code": 3688
   },
   "Java": {
     "nFiles": 103,
@@ -78,10 +78,10 @@
     "code": 2228
   },
   "SQL": {
-    "nFiles": 25,
-    "blank": 614,
-    "comment": 272,
-    "code": 1767
+    "nFiles": 27,
+    "blank": 649,
+    "comment": 277,
+    "code": 1917
   },
   "Bourne Shell": {
     "nFiles": 15,
@@ -204,9 +204,9 @@
     "code": 0
   },
   "SUM": {
-    "blank": 30403,
-    "comment": 12717,
-    "code": 236911,
-    "nFiles": 1608
+    "blank": 30509,
+    "comment": 12722,
+    "code": 237369,
+    "nFiles": 1617
   }
 }

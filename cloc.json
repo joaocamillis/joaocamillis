@@ -1,27 +1,27 @@
 {
   "Text": {
-    "nFiles": 26,
+    "nFiles": 28,
     "blank": 15034,
     "comment": 0,
-    "code": 120368
+    "code": 120371
   },
   "JSON": {
-    "nFiles": 32,
+    "nFiles": 35,
     "blank": 8,
     "comment": 0,
-    "code": 23708
+    "code": 25429
   },
   "XML": {
-    "nFiles": 262,
+    "nFiles": 263,
     "blank": 117,
     "comment": 1473,
-    "code": 20238
+    "code": 20274
   },
   "CSS": {
-    "nFiles": 54,
-    "blank": 2520,
+    "nFiles": 55,
+    "blank": 2522,
     "comment": 151,
-    "code": 11536
+    "code": 11543
   },
   "Python": {
     "nFiles": 125,
@@ -29,17 +29,17 @@
     "comment": 4912,
     "code": 9408
   },
-  "JavaScript": {
-    "nFiles": 74,
-    "blank": 1214,
-    "comment": 280,
-    "code": 7026
-  },
   "PHP": {
-    "nFiles": 170,
-    "blank": 1582,
-    "comment": 1791,
-    "code": 6066
+    "nFiles": 206,
+    "blank": 1923,
+    "comment": 2523,
+    "code": 7172
+  },
+  "JavaScript": {
+    "nFiles": 76,
+    "blank": 1215,
+    "comment": 281,
+    "code": 7049
   },
   "JSX": {
     "nFiles": 26,
@@ -65,17 +65,17 @@
     "comment": 460,
     "code": 3688
   },
+  "Blade": {
+    "nFiles": 70,
+    "blank": 476,
+    "comment": 52,
+    "code": 3533
+  },
   "Java": {
     "nFiles": 103,
     "blank": 1166,
     "comment": 836,
     "code": 3067
-  },
-  "Blade": {
-    "nFiles": 55,
-    "blank": 303,
-    "comment": 27,
-    "code": 2228
   },
   "SQL": {
     "nFiles": 27,
@@ -119,6 +119,12 @@
     "comment": 397,
     "code": 890
   },
+  "Markdown": {
+    "nFiles": 19,
+    "blank": 344,
+    "comment": 4,
+    "code": 879
+  },
   "CSV": {
     "nFiles": 3,
     "blank": 0,
@@ -142,12 +148,6 @@
     "blank": 97,
     "comment": 7,
     "code": 681
-  },
-  "Markdown": {
-    "nFiles": 18,
-    "blank": 253,
-    "comment": 4,
-    "code": 647
   },
   "TOML": {
     "nFiles": 14,
@@ -174,10 +174,10 @@
     "code": 82
   },
   "INI": {
-    "nFiles": 4,
-    "blank": 11,
+    "nFiles": 5,
+    "blank": 15,
     "comment": 13,
-    "code": 48
+    "code": 62
   },
   "Ant": {
     "nFiles": 8,
@@ -204,9 +204,9 @@
     "code": 0
   },
   "SUM": {
-    "blank": 30509,
-    "comment": 12722,
-    "code": 237369,
-    "nFiles": 1617
+    "blank": 31121,
+    "comment": 13480,
+    "code": 241816,
+    "nFiles": 1679
   }
 }

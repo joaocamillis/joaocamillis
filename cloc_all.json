@@ -1,46 +1,46 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 2.19769406318665,
-  "n_files"            : 1679,
-  "n_lines"            : 286417,
-  "files_per_second"   : 763.98258889841,
-  "lines_per_second"   : 130326.14720936},
+  "elapsed_seconds"    : 2.28798079490662,
+  "n_files"            : 1792,
+  "n_lines"            : 293865,
+  "files_per_second"   : 783.223357464039,
+  "lines_per_second"   : 128438.578092171},
 "Text" :{
-  "nFiles": 28,
+  "nFiles": 29,
   "blank": 15034,
   "comment": 0,
-  "code": 120371},
+  "code": 120373},
 "JSON" :{
-  "nFiles": 35,
+  "nFiles": 38,
   "blank": 8,
   "comment": 0,
-  "code": 25429},
+  "code": 28254},
 "XML" :{
-  "nFiles": 263,
+  "nFiles": 264,
   "blank": 117,
   "comment": 1473,
-  "code": 20274},
+  "code": 20310},
 "CSS" :{
-  "nFiles": 55,
+  "nFiles": 56,
   "blank": 2522,
   "comment": 151,
-  "code": 11543},
+  "code": 11546},
 "Python" :{
   "nFiles": 125,
   "blank": 3033,
   "comment": 4912,
   "code": 9408},
 "PHP" :{
-  "nFiles": 206,
-  "blank": 1923,
-  "comment": 2523,
-  "code": 7172},
+  "nFiles": 268,
+  "blank": 2446,
+  "comment": 3339,
+  "code": 8900},
 "JavaScript" :{
-  "nFiles": 76,
-  "blank": 1215,
-  "comment": 281,
-  "code": 7049},
+  "nFiles": 80,
+  "blank": 1223,
+  "comment": 284,
+  "code": 7083},
 "JSX" :{
   "nFiles": 26,
   "blank": 594,
@@ -56,16 +56,16 @@
   "blank": 1054,
   "comment": 5,
   "code": 4953},
+"Blade" :{
+  "nFiles": 109,
+  "blank": 640,
+  "comment": 78,
+  "code": 4640},
 "Kotlin" :{
   "nFiles": 87,
   "blank": 597,
   "comment": 460,
   "code": 3688},
-"Blade" :{
-  "nFiles": 70,
-  "blank": 476,
-  "comment": 52,
-  "code": 3533},
 "Java" :{
   "nFiles": 103,
   "blank": 1166,
@@ -96,6 +96,11 @@
   "blank": 144,
   "comment": 70,
   "code": 1085},
+"Markdown" :{
+  "nFiles": 20,
+  "blank": 375,
+  "comment": 4,
+  "code": 1003},
 "DOS Batch" :{
   "nFiles": 14,
   "blank": 296,
@@ -106,11 +111,6 @@
   "blank": 0,
   "comment": 397,
   "code": 890},
-"Markdown" :{
-  "nFiles": 19,
-  "blank": 344,
-  "comment": 4,
-  "code": 879},
 "CSV" :{
   "nFiles": 3,
   "blank": 0,
@@ -152,10 +152,10 @@
   "comment": 0,
   "code": 82},
 "INI" :{
-  "nFiles": 5,
-  "blank": 15,
+  "nFiles": 6,
+  "blank": 19,
   "comment": 13,
-  "code": 62},
+  "code": 76},
 "Ant" :{
   "nFiles": 8,
   "blank": 104,
@@ -177,7 +177,7 @@
   "comment": 234,
   "code": 0},
 "SUM": {
-  "blank": 31121,
-  "comment": 13480,
-  "code": 241816,
-  "nFiles": 1679} }
+  "blank": 31851,
+  "comment": 14325,
+  "code": 247689,
+  "nFiles": 1792} }

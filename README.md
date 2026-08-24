@@ -127,18 +127,18 @@ Estágio / Jovem Aprendiz em **Back-End**.
 <!--LANG-STATS:START-->
 | Linguagem | Linhas | % |
 |---|---:|---:|
-| Text | 120373 | 48.6 |
-| JSON | 28254 | 11.41 |
-| XML | 20310 | 8.2 |
-| CSS | 11546 | 4.66 |
-| Python | 9408 | 3.8 |
-| PHP | 8900 | 3.59 |
-| JavaScript | 7083 | 2.86 |
-| JSX | 5585 | 2.25 |
-| Vuejs Component | 5496 | 2.22 |
-| HTML | 4953 | 2 |
-| Blade | 4640 | 1.87 |
-| Kotlin | 3688 | 1.49 |
-| Java | 3067 | 1.24 |
-| SQL | 1917 | 0.77 |
+| Text | 120375 | 48.22 |
+| JSON | 28359 | 11.36 |
+| XML | 20346 | 8.15 |
+| CSS | 11553 | 4.63 |
+| PHP | 9840 | 3.94 |
+| Python | 9408 | 3.77 |
+| JavaScript | 7106 | 2.85 |
+| JSX | 5585 | 2.24 |
+| Vuejs Component | 5496 | 2.2 |
+| HTML | 4953 | 1.98 |
+| Blade | 4849 | 1.94 |
+| Kotlin | 3688 | 1.48 |
+| Java | 3067 | 1.23 |
+| SQL | 2163 | 0.87 |
 | Bourne Shell | 1763 | 0.71 |

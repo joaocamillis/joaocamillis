@@ -1,27 +1,33 @@
 {
   "Text": {
-    "nFiles": 29,
+    "nFiles": 30,
     "blank": 15034,
     "comment": 0,
-    "code": 120373
+    "code": 120375
   },
   "JSON": {
-    "nFiles": 38,
+    "nFiles": 40,
     "blank": 8,
     "comment": 0,
-    "code": 28254
+    "code": 28359
   },
   "XML": {
-    "nFiles": 264,
+    "nFiles": 265,
     "blank": 117,
     "comment": 1473,
-    "code": 20310
+    "code": 20346
   },
   "CSS": {
-    "nFiles": 56,
-    "blank": 2522,
+    "nFiles": 57,
+    "blank": 2524,
     "comment": 151,
-    "code": 11546
+    "code": 11553
+  },
+  "PHP": {
+    "nFiles": 302,
+    "blank": 2741,
+    "comment": 4014,
+    "code": 9840
   },
   "Python": {
     "nFiles": 125,
@@ -29,17 +35,11 @@
     "comment": 4912,
     "code": 9408
   },
-  "PHP": {
-    "nFiles": 268,
-    "blank": 2446,
-    "comment": 3339,
-    "code": 8900
-  },
   "JavaScript": {
-    "nFiles": 80,
-    "blank": 1223,
-    "comment": 284,
-    "code": 7083
+    "nFiles": 82,
+    "blank": 1224,
+    "comment": 285,
+    "code": 7106
   },
   "JSX": {
     "nFiles": 26,
@@ -60,10 +60,10 @@
     "code": 4953
   },
   "Blade": {
-    "nFiles": 109,
-    "blank": 640,
-    "comment": 78,
-    "code": 4640
+    "nFiles": 110,
+    "blank": 651,
+    "comment": 81,
+    "code": 4849
   },
   "Kotlin": {
     "nFiles": 87,
@@ -78,10 +78,10 @@
     "code": 3067
   },
   "SQL": {
-    "nFiles": 27,
-    "blank": 649,
-    "comment": 277,
-    "code": 1917
+    "nFiles": 28,
+    "blank": 704,
+    "comment": 361,
+    "code": 2163
   },
   "Bourne Shell": {
     "nFiles": 15,
@@ -95,6 +95,12 @@
     "comment": 271,
     "code": 1459
   },
+  "Markdown": {
+    "nFiles": 21,
+    "blank": 507,
+    "comment": 4,
+    "code": 1347
+  },
   "Gradle": {
     "nFiles": 43,
     "blank": 118,
@@ -106,12 +112,6 @@
     "blank": 144,
     "comment": 70,
     "code": 1085
-  },
-  "Markdown": {
-    "nFiles": 20,
-    "blank": 375,
-    "comment": 4,
-    "code": 1003
   },
   "DOS Batch": {
     "nFiles": 14,
@@ -167,17 +167,17 @@
     "comment": 9,
     "code": 118
   },
+  "INI": {
+    "nFiles": 7,
+    "blank": 23,
+    "comment": 13,
+    "code": 90
+  },
   "Maven": {
     "nFiles": 6,
     "blank": 0,
     "comment": 0,
     "code": 82
-  },
-  "INI": {
-    "nFiles": 6,
-    "blank": 19,
-    "comment": 13,
-    "code": 76
   },
   "Ant": {
     "nFiles": 8,
@@ -204,9 +204,9 @@
     "code": 0
   },
   "SUM": {
-    "blank": 31851,
-    "comment": 14325,
-    "code": 247689,
-    "nFiles": 1792
+    "blank": 32351,
+    "comment": 15088,
+    "code": 249615,
+    "nFiles": 1837
   }
 }

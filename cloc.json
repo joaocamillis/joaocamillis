@@ -1,33 +1,33 @@
 {
   "Text": {
-    "nFiles": 30,
+    "nFiles": 31,
     "blank": 15034,
     "comment": 0,
-    "code": 120375
+    "code": 120377
   },
   "JSON": {
-    "nFiles": 40,
+    "nFiles": 44,
     "blank": 8,
     "comment": 0,
-    "code": 28359
+    "code": 30797
   },
   "XML": {
-    "nFiles": 265,
-    "blank": 117,
-    "comment": 1473,
-    "code": 20346
+    "nFiles": 287,
+    "blank": 121,
+    "comment": 1499,
+    "code": 21021
   },
   "CSS": {
-    "nFiles": 57,
-    "blank": 2524,
+    "nFiles": 58,
+    "blank": 2526,
     "comment": 151,
-    "code": 11553
+    "code": 11560
   },
   "PHP": {
-    "nFiles": 302,
-    "blank": 2741,
-    "comment": 4014,
-    "code": 9840
+    "nFiles": 331,
+    "blank": 3008,
+    "comment": 4684,
+    "code": 10672
   },
   "Python": {
     "nFiles": 125,
@@ -36,10 +36,10 @@
     "code": 9408
   },
   "JavaScript": {
-    "nFiles": 82,
-    "blank": 1224,
-    "comment": 285,
-    "code": 7106
+    "nFiles": 84,
+    "blank": 1225,
+    "comment": 286,
+    "code": 7129
   },
   "JSX": {
     "nFiles": 26,
@@ -53,23 +53,23 @@
     "comment": 26,
     "code": 5496
   },
+  "Blade": {
+    "nFiles": 112,
+    "blank": 679,
+    "comment": 84,
+    "code": 5173
+  },
+  "Kotlin": {
+    "nFiles": 99,
+    "blank": 826,
+    "comment": 502,
+    "code": 5001
+  },
   "HTML": {
     "nFiles": 51,
     "blank": 1054,
     "comment": 5,
     "code": 4953
-  },
-  "Blade": {
-    "nFiles": 110,
-    "blank": 651,
-    "comment": 81,
-    "code": 4849
-  },
-  "Kotlin": {
-    "nFiles": 87,
-    "blank": 597,
-    "comment": 460,
-    "code": 3688
   },
   "Java": {
     "nFiles": 103,
@@ -84,10 +84,16 @@
     "code": 2163
   },
   "Bourne Shell": {
-    "nFiles": 15,
-    "blank": 334,
-    "comment": 579,
-    "code": 1763
+    "nFiles": 16,
+    "blank": 357,
+    "comment": 615,
+    "code": 1889
+  },
+  "Markdown": {
+    "nFiles": 25,
+    "blank": 645,
+    "comment": 4,
+    "code": 1625
   },
   "C": {
     "nFiles": 8,
@@ -95,17 +101,11 @@
     "comment": 271,
     "code": 1459
   },
-  "Markdown": {
-    "nFiles": 21,
-    "blank": 507,
-    "comment": 4,
-    "code": 1347
-  },
   "Gradle": {
-    "nFiles": 43,
-    "blank": 118,
-    "comment": 58,
-    "code": 1170
+    "nFiles": 46,
+    "blank": 126,
+    "comment": 59,
+    "code": 1255
   },
   "C++": {
     "nFiles": 6,
@@ -114,16 +114,16 @@
     "code": 1085
   },
   "DOS Batch": {
-    "nFiles": 14,
-    "blank": 296,
-    "comment": 28,
-    "code": 922
+    "nFiles": 15,
+    "blank": 317,
+    "comment": 30,
+    "code": 988
   },
   "Properties": {
-    "nFiles": 55,
+    "nFiles": 57,
     "blank": 0,
-    "comment": 397,
-    "code": 890
+    "comment": 417,
+    "code": 899
   },
   "CSV": {
     "nFiles": 3,
@@ -150,10 +150,10 @@
     "code": 681
   },
   "TOML": {
-    "nFiles": 14,
-    "blank": 36,
+    "nFiles": 15,
+    "blank": 39,
     "comment": 0,
-    "code": 352
+    "code": 381
   },
   "YAML": {
     "nFiles": 9,
@@ -168,10 +168,10 @@
     "code": 118
   },
   "INI": {
-    "nFiles": 7,
-    "blank": 23,
+    "nFiles": 8,
+    "blank": 27,
     "comment": 13,
-    "code": 90
+    "code": 104
   },
   "Maven": {
     "nFiles": 6,
@@ -198,15 +198,15 @@
     "code": 11
   },
   "ProGuard": {
-    "nFiles": 13,
-    "blank": 39,
-    "comment": 234,
+    "nFiles": 14,
+    "blank": 42,
+    "comment": 252,
     "code": 0
   },
   "SUM": {
-    "blank": 32351,
-    "comment": 15088,
-    "code": 249615,
-    "nFiles": 1837
+    "blank": 33082,
+    "comment": 15907,
+    "code": 255836,
+    "nFiles": 1924
   }
 }

@@ -1,56 +1,61 @@
 {"header" : {
   "cloc_url"           : "github.com/AlDanial/cloc",
   "cloc_version"       : "1.98",
-  "elapsed_seconds"    : 3.35495281219482,
-  "n_files"            : 2351,
-  "n_lines"            : 525477,
-  "files_per_second"   : 700.755012545755,
-  "lines_per_second"   : 156627.240207361},
+  "elapsed_seconds"    : 2.17182898521423,
+  "n_files"            : 2471,
+  "n_lines"            : 538279,
+  "files_per_second"   : 1137.75072384728,
+  "lines_per_second"   : 247845.94167616},
 "JavaScript" :{
-  "nFiles": 465,
-  "blank": 14021,
-  "comment": 35012,
-  "code": 159929},
+  "nFiles": 473,
+  "blank": 14162,
+  "comment": 35390,
+  "code": 161500},
 "Text" :{
-  "nFiles": 31,
+  "nFiles": 32,
   "blank": 15034,
   "comment": 0,
-  "code": 120377},
+  "code": 120379},
 "JSON" :{
-  "nFiles": 56,
+  "nFiles": 59,
   "blank": 8,
   "comment": 0,
-  "code": 34734},
+  "code": 38208},
+"CSS" :{
+  "nFiles": 63,
+  "blank": 3372,
+  "comment": 585,
+  "code": 21313},
 "XML" :{
-  "nFiles": 287,
+  "nFiles": 288,
   "blank": 121,
   "comment": 1499,
-  "code": 21021},
-"CSS" :{
-  "nFiles": 59,
-  "blank": 3324,
-  "comment": 509,
-  "code": 19926},
+  "code": 21057},
 "PHP" :{
-  "nFiles": 331,
-  "blank": 3008,
-  "comment": 4684,
-  "code": 10672},
+  "nFiles": 392,
+  "blank": 3539,
+  "comment": 5689,
+  "code": 12367},
 "Python" :{
   "nFiles": 125,
   "blank": 3033,
   "comment": 4912,
   "code": 9408},
+"Blade" :{
+  "nFiles": 149,
+  "blank": 812,
+  "comment": 175,
+  "code": 6333},
 "HTML" :{
   "nFiles": 53,
   "blank": 1100,
   "comment": 49,
   "code": 6059},
 "Markdown" :{
-  "nFiles": 45,
-  "blank": 1284,
+  "nFiles": 48,
+  "blank": 1338,
   "comment": 4,
-  "code": 5626},
+  "code": 5724},
 "JSX" :{
   "nFiles": 26,
   "blank": 594,
@@ -61,11 +66,6 @@
   "blank": 582,
   "comment": 26,
   "code": 5496},
-"Blade" :{
-  "nFiles": 112,
-  "blank": 679,
-  "comment": 84,
-  "code": 5173},
 "Kotlin" :{
   "nFiles": 99,
   "blank": 826,
@@ -76,16 +76,16 @@
   "blank": 1166,
   "comment": 836,
   "code": 3067},
+"SQL" :{
+  "nFiles": 29,
+  "blank": 829,
+  "comment": 361,
+  "code": 2942},
 "Bourne Shell" :{
   "nFiles": 20,
   "blank": 424,
   "comment": 650,
   "code": 2633},
-"SQL" :{
-  "nFiles": 28,
-  "blank": 704,
-  "comment": 361,
-  "code": 2163},
 "C" :{
   "nFiles": 8,
   "blank": 321,
@@ -141,16 +141,16 @@
   "blank": 64,
   "comment": 14,
   "code": 357},
+"INI" :{
+  "nFiles": 9,
+  "blank": 31,
+  "comment": 13,
+  "code": 118},
 "PowerShell" :{
   "nFiles": 2,
   "blank": 13,
   "comment": 9,
   "code": 118},
-"INI" :{
-  "nFiles": 8,
-  "blank": 27,
-  "comment": 13,
-  "code": 104},
 "Maven" :{
   "nFiles": 6,
   "blank": 0,
@@ -177,7 +177,7 @@
   "comment": 252,
   "code": 0},
 "SUM": {
-  "blank": 47448,
-  "comment": 51070,
-  "code": 426959,
-  "nFiles": 2351} }
+  "blank": 48484,
+  "comment": 52620,
+  "code": 437175,
+  "nFiles": 2471} }
